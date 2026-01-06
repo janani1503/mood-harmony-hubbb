@@ -26,7 +26,7 @@ const App = () => (
   <Route path="*" element={<NotFound />} />
 </Routes>
 
-<h1>Mood music feel</h1>   // <-- add this line
+<h1>Mood music feel</h1>   
 
         
       </BrowserRouter>
